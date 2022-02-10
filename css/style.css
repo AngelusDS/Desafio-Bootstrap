@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(89, 92, 82, 0.301);
+}
+
+.navbar{
+    background-color: rgb(23, 109, 30);
+    font: 50px Times;
+}
+.margin{
+    margin-top: 40px;
+}
